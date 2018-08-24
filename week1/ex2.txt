@@ -1,0 +1,32 @@
+history
+nano ex1.txt 
+ls /usr/bin -r|grep gcc >ex1.txt
+./ex4
+gcc main.c -o ex4
+nano main.c
+vim main.c
+gedit ~/week1/main.c
+sh ex3.sh
+nano ex3.sh
+touch ex3.sh
+cd ~/week1
+mkdir ~/week1
+week1
+cd ~
+cd~
+./EX4
+gcc ex4.c -o ex4
+sudo apt-get install gcc
+vim ex4.c
+cut ex4
+rmv ex4
+dlt ex4
+delete ex4
+remove ex4
+ls
+nano ex4
+rename ex4 ex4.c
+vim ex4
+touch ex4
+cd test
+mkdir test
