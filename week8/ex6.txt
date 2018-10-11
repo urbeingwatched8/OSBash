@@ -1,2 +1,2 @@
 Amount of entries (virtual pages) = (2^(amount of bits in virtual adress))/(2^(amount of pages on bytes))
-Amount of entries (virtual pages)=(2^16)/(2^13)=2^3=8. 
+Amount of entries (virtual pages) = (2^16)/(2^13)=2^3=8. 
