@@ -1,1 +1,1 @@
-gfvdvgfd
+Virtual memory maps the table, where every process has its own page. Pages give us array of physical adresses. VM allows us to distribute the physical memory in the way that never allows programs to use all of it. It can use it continiously, so it can work with physical memory much longer.
