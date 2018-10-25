@@ -1,0 +1,19 @@
+chmod a-x _ex3.txt >>_ex3.txt
+
+chmod o=rwx _ex3.txt >> _ex3.txt | chmod u=rwx _ex3.txt
+
+chmod g=u _ex3.txt >> _ex3.txt
+
+ls -l
+
+total 0
+
+-rwxrwxrwx 3 urbeingwatched urbeingwatched 58 Oct 25 22:33 _ex1.txt
+
+-rwxrwxrwx 3 urbeingwatched urbeingwatched 58 Oct 25 22:33 _ex1_1.txt
+
+-rwxrwxrwx 3 urbeingwatched urbeingwatched 58 Oct 25 22:33 _ex1_2.txt
+
+-rwxrwxrwx 1 urbeingwatched urbeingwatched 18 Oct 25 22:51 _ex2.txt
+
+-rwxrwxrwx 1 urbeingwatched urbeingwatched  0 Oct 25 22:53 _ex3.txt
