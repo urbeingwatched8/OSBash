@@ -1,0 +1,23 @@
+
+ORIG 
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.000s
+
+WITH 512
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.000s
+
+WITH 2048
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.000s
+
+WITH MODIFIED OPEN
+real	0m0.007s
+user	0m0.000s
+sys	0m0.000s
