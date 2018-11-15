@@ -1,0 +1,2 @@
+Prevention algoritms usually don't have efficent usage of computer resourses, so they are rarely used.
+In avoidance algoritms we need to know information about processes before we can run them.
