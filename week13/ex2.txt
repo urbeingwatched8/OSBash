@@ -1,2 +1,3 @@
-Prevention algoritms usually don't have efficent usage of computer resourses, so they are rarely used.
-In avoidance algoritms we need to know information about processes before we can run them.
+Prevention algorithms usually don't have efficent usage of computer resourses, so they are rarely used.
+In avoidance algorithms we need to know information about processes before we can run them. Checking for safe/unsafe takes time and recources of the processor.
+In cases where breaking deadlock itself doesn't take a lot of time and resources, we can use Recovery Algorithms. But usually in OSes this takes more time then avoiding or sometimes even preventing. But it can be used in, for example, Real Time OSes.
